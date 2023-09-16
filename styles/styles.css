@@ -1,0 +1,90 @@
+html {
+    background-image: url("../images/spaceship-background.png");
+    background-size: 100%;
+    background-color: #0C0032;
+    margin-top: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+.main-content {
+
+    background-color: #0C0032;
+    width: 50%;
+    height: 100vh;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    align-self: center;
+    text-align: center;
+    overflow: hidden;
+    border: solid black;
+}
+
+h1 {
+    font-weight: 800;
+    font-family: Ubuntu Mono;
+    color: white;
+    padding: 20px;
+}
+
+
+
+.main-content .mainTitle {
+    margin: auto;
+    min-width: 97%;
+    background: #3500D3;
+    font-size: xx-large;
+}
+
+.main-content p {
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height:10px;
+    font-size: 14pt;
+    text-align: left !important;
+    margin-left: 50px;
+    font-family: Ubuntu Mono;
+}
+
+.space {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height:10px;
+}
+
+button {
+
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    color: whitesmoke;
+}
+
+.information {
+    font-family: Ubuntu Mono;
+    text-align: left;
+    margin-top: 60px;
+    margin-left: 45px;
+    margin-right: 30px;
+    font-size: large;
+    color: white;
+    line-height:1.4;
+    list-style-type: none;
+
+}
+
+.information li {
+    list-style-type: none;
+    padding: 10px 0px;
+}
+
